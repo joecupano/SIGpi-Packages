@@ -8,7 +8,7 @@ In this repo you willfind Raspberry Pi OS, Ubuntu 22.04 packages (arm64 and amd6
 - Hamlib 4.5.3
 - Hamlib 4.5.4
 - SDRangel 7.8.5
-- SDRangel 7.8.6 for amd64 only
+- SDRangel 7.8.6
 - SDRpp 1.1.0
 - WSJT-X 2.6.0
 
