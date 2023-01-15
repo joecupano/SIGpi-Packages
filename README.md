@@ -5,6 +5,7 @@ be on top of X.Y releases.
 
 In this repo you willfind Raspberry Pi OS, Ubuntu 22.04 packages (arm64 and amd64) and Ubuntu 22.04 packages for:
 
+- Hamlib 4.5.3
 - SDRangel 7.8.5
 - SDRpp 1.1.0
 - WSJT-X 2.6.0
