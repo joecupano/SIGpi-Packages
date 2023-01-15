@@ -1,5 +1,5 @@
 # SIGpi-Packages
-Recent versions of your favorite RF_related software packages not available as ARM64 or AMD64 Debian packages such as SDRangel ?
+Can't find recent versions of your favorite RF_related software available as ARM64 or AMD64 Debian packages such as SDRangel ?
 Well for the [SIGpi](https://github.com/joecupano/SIGpi/wiki)  distro we decided to build our own from sourc with an aim to
 be on top of X.Y releases. 
 
