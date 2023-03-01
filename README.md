@@ -3,9 +3,10 @@ Can't find recent versions of your favorite RF_related software available as ARM
 Well for the [SIGpi](https://github.com/joecupano/SIGpi/wiki)  distro we decided to build our own from sourc with an aim to
 be on top of X.Y releases. 
 
-In this repo you willfind Raspberry Pi OS, Ubuntu 22.04 packages (arm64 and amd64) and Ubuntu 22.04 packages for:
+In this repo you will Debian packages (arm64 and amd64) for:
 
 - SDRangel 7.8.5, 7.8.6, and 7.9.0
+- SDRangel Server 7.9.0
 - SDRpp 1.1.0
 - WSJT-X 2.6.0
 
